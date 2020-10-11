@@ -2,7 +2,7 @@
 Here is only the socket server between Rpi and Laptop + detection buttom pressed
 
 
-BUTTON NOT CONENCTED TO THE URe5
+BUTTON NOT CONNECTED TO THE URe5
 
 ## Step 0: Test if the button are well connected
 
